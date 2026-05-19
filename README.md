@@ -1,6 +1,6 @@
 # Discrete-Opamp
  Discrete OpAmp for low voltage, low power audio applications.
- <img width="872" height="784" alt="image" src="https://github.com/user-attachments/assets/44f21361-2ae4-418c-8050-a92c4127e7c0" />
+ <img width="436" height="392" alt="image" src="https://github.com/user-attachments/assets/44f21361-2ae4-418c-8050-a92c4127e7c0" />
 
 
 # Specs
